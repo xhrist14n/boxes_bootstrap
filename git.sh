@@ -1,5 +1,5 @@
 clear
-git add ./bower_components/. 
+git add ./bower_components/.
 git add ./test
 git add ./app
 git add ./app/scripts/.
@@ -16,5 +16,5 @@ git add  .gitattributes
 git add  .gitignore
 git add .yo-rc.json
 git add run.sh
-git commit -am "project video player libraries"
+git commit -am "project boxes html"
 git push origin master
